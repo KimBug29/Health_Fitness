@@ -9,7 +9,7 @@ Health and Fitness Relationship is a data analysis project with a focus on compa
 ***
 A list of technologies used within the project:
 * [VS Code](https://code.visualstudio.com/download): Version xx.x
-* [Juypter Notebook in Anaconda](https://www.anaconda.com/): Version x.xx   
+* [Juypter Notebook in Anaconda3](https://www.anaconda.com/): Python 3.9.7   
 * [______](https://example.com): Version 1234
 
 ## General Info - Project Description
@@ -53,15 +53,6 @@ _______ insert instructions on how to get the development environment set and ru
 ## Credits
 
 Data file folder titled 'osfstorage-archive' was obtained through Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
-
-
-### Hi there 👋
-* 👂 My name is Kim Wolf
-* 👩 Pronouns: she/her
-* 🌱 I’m currently learning Python (data analysis 2) through Code Louisville
-* 📫 How to reach me: kim41051@yahoo.com
-* ❤️ I love learning new technologies
-* ⚡ Fun fact: I enjoy sewing and crafting in my free time
 
 
 KEEP THE BELOW INFO AND USE AS REFERENCE WHILE WORKING ON PROJECT
