@@ -2,7 +2,7 @@
 
 ## Created by Kim Wolf
 
-<img src="relative/path/in/repository/to/health-fitness-image.jpg" width="500"/>
+
 Health and Fitness Relationship is a data analysis project with a focus on comparing and contrasting fitness activity to select health indicators. Activity measurement originated from fitness trackers, a sports logging app and manual data entry from participants.
 
 
