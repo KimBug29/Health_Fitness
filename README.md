@@ -4,7 +4,7 @@
 
 Health and Fitness Relationship is a data analysis project with a focus on comparing and contrasting fitness activity to select health indicators. Activity measurement originated from fitness trackers, a sports logging app and manual data entry from participants.
 
-
+![alt text](http://url/to/health-fitness-image.jpg)
 ## Technologies Used
 ***
 A list of technologies used within the project:
