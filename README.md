@@ -8,23 +8,23 @@ Health and Fitness Relationship is a data analysis project with a focus on compa
 ## Technologies Used
 ***
 A list of technologies used within the project:
-* [VS Code](https://code.visualstudio.com/download): Version xx.x
+* [VS Code](https://code.visualstudio.com/download): Version 1.73
 * [Juypter Notebook in Anaconda3](https://www.anaconda.com/): Python 3.9.7   
 * [______](https://example.com): Version 1234
 
 ## General Info - Project Description
 ***
- * The data analysis project was written in VS Code with Jupyter notebook and ______ for data visualization. 
+ * The data analysis project was written in VS Code with Jupyter Notebook and ______ for data visualization. 
  
  uses pandas, matplotlib, and/or numpy to perform various analysis of two (or more) data sets. Data visualization uses ______ still to be determined (options include Tableau/Jupyter/Plotly or Matplotlib)
- * While constructing this project I faced ______ (challenges)
+ * While constructing this project I faced a steep learning curve with the various technologies, specifically use of kernals when running the code.
 
 
  ## Project Features
 
  Health and Fitness Relationship project includes the following features.
 
- * Feature 1 - Load data. Read two (or more) data files including csv, Excel and JSON
+ * Feature 1 - Load data. Read two (or more) data files including csv and JSON
  * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two (or more) data sets, then calculates some new values based on the new data set
  * Feature 3 - Visualize data. .....  still to be determined
  * Feature 4 - Best practices. Utilize a virtual environment, instructions included in this README
