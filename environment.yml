@@ -1,4 +1,10 @@
 name: hfenv
 channels:
   - defaults
+dependencies:
+  - python
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipykernel
 prefix: C:\Users\kimbe\anaconda3\envs\hfenv

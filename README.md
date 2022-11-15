@@ -34,15 +34,38 @@ A list of technologies used within the project:
 * [Juypter Notebook in Anaconda3](https://www.anaconda.com/): Python 3.9.7   
 * Need to enter more info here.....
 
-
-## Installation  (Still need to update??)
+## Installation  
 ***
 To install, run and view the project, perform the following steps:
 ```
-$ git clone https://github.com/KimBug29/Health_Fitness.git
-Next, down the data set from Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset and save the file folder titled 'osfstorage-archive'
-Finally, open the Jupyter notebook titled fitness.ipynb 
+Clone my repo from GitHub.
 
+git clone https://github.com/KimBug29/Health_Fitness.git
+
+Next, down the data set from Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset and save the file folder titled 'osfstorage-archive'
+
+Conda was used to create this project, and I created a conda virtual environment. 
+
+Ensure you have installed Anaconda. (link to install https://docs.anaconda.com/anaconda/install/) If you use windows, in ‘Start’ you need to type and start the ‘Anaconda prompt’. If you are on Mac or Linux, you can do all of these in Terminal.
+
+To create a conda virtual environment:
+1. Create an environment 
+    conda create --name NEWENV (replace NEWENV with the name of your choice)
+
+2. You will be asked if you'd like to proceed y/n. Select  y to proceed.
+
+3. Use conda activate NEWENV to activate your new virtual environment. (Again, please replace NEWENV with your chosen name). My virtual environment name is hfenv
+
+4. To run the project insure you have installed the packages listed in the environment.yml file. These packages are under dependencies. Use conda install.
+
+For example: conda install python
+Repeat until all packages are installed.
+
+5. Open the Jupyter Notebook: fitness.ipynb
+
+    Make sure that the virtual environment you created is selected.
+
+6. Run the notebook.
 
 ## Credits
 
