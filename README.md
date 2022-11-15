@@ -11,10 +11,9 @@
 
 ## General Info - Project Description
 ***
- * The data analysis project was written in VS Code with Jupyter Notebook and Seaborn for data visualization. 
- 
+ * The data analysis project was written in VS Code with Jupyter Notebook and Seaborn for data visualization.  
  * Use of pandas, seaborn, and matplotlib to perform various analysis of two (or more) data sets. Data visualization uses Seaborn charts.
- * While constructing this project I faced a steep learning curve with the various technologies, specifically use of kernals when running the code.
+ * While constructing this project I faced a steep learning curve with the various technologies, specifically use of kernals when running the code in conda.
 
 
  ## Project Features
@@ -28,30 +27,22 @@
  * Feature 5 - Interpretation of data. Use of markdown cells in Jupyter Notebook, including clear code comments, and well written README.md 
 
 
-## Technologies Used   (Still need to update)
+## Technologies Used   
 ***
 A list of technologies used within the project:
 * [VS Code](https://code.visualstudio.com/download): Version 1.73
 * [Juypter Notebook in Anaconda3](https://www.anaconda.com/): Python 3.9.7   
-* [______](https://example.com): Version 1234
+* Need to enter more info here.....
 
 
-## Installation (example)  (Still need to update)
+## Installation  (Still need to update??)
 ***
-A little intro about the installation. 
+To install, run and view the project, perform the following steps:
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Note: To use the application in a special environment use ```lorem ipsum``` to start.
+$ git clone https://github.com/KimBug29/Health_Fitness.git
+Next, down the data set from Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset and save the file folder titled 'osfstorage-archive'
+Finally, open the Jupyter notebook titled fitness.ipynb 
 
-## Installation (Still need to update)
-
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install Python
-
-_______ insert instructions on how to get the development environment set and running.
 
 ## Credits
 
