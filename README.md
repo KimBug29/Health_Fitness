@@ -11,9 +11,9 @@
 
 ## General Info - Project Description
 ***
- * The data analysis project was written in VS Code with Jupyter Notebook and ______ for data visualization. 
+ * The data analysis project was written in VS Code with Jupyter Notebook and Seaborn for data visualization. 
  
- uses pandas, matplotlib, and/or numpy to perform various analysis of two (or more) data sets. Data visualization uses ______ still to be determined (options include Tableau/Jupyter/Plotly or Matplotlib)
+ * Use of pandas, seaborn, and matplotlib to perform various analysis of two (or more) data sets. Data visualization uses Seaborn charts.
  * While constructing this project I faced a steep learning curve with the various technologies, specifically use of kernals when running the code.
 
 
@@ -23,12 +23,12 @@
 
  * Feature 1 - Load data. Read two JSON data files
  * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two data sets, then calculate some new values based on the new data set
- * Feature 3 - Visualize data. .....  still to be determined
+ * Feature 3 - Visualize data using Seaborn plots/charts.
  * Feature 4 - Best practices. Utilize a virtual environment, instructions included in this README
  * Feature 5 - Interpretation of data. Use of markdown cells in Jupyter Notebook, including clear code comments, and well written README.md 
 
 
-## Technologies Used
+## Technologies Used   (Still need to update)
 ***
 A list of technologies used within the project:
 * [VS Code](https://code.visualstudio.com/download): Version 1.73
@@ -36,7 +36,7 @@ A list of technologies used within the project:
 * [______](https://example.com): Version 1234
 
 
-## Installation (example)
+## Installation (example)  (Still need to update)
 ***
 A little intro about the installation. 
 ```
@@ -47,7 +47,7 @@ $ npm start
 ```
 Note: To use the application in a special environment use ```lorem ipsum``` to start.
 
-## Installation 
+## Installation (Still need to update)
 
 Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install Python
 
