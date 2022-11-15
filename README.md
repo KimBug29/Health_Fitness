@@ -21,8 +21,8 @@
 
  Health and Fitness Relationship project includes the following features.
 
- * Feature 1 - Load data. Read two (or more) data files including csv and JSON
- * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two (or more) data sets, then calculates some new values based on the new data set
+ * Feature 1 - Load data. Read two JSON data files
+ * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two data sets, then calculate some new values based on the new data set
  * Feature 3 - Visualize data. .....  still to be determined
  * Feature 4 - Best practices. Utilize a virtual environment, instructions included in this README
  * Feature 5 - Interpretation of data. Use of markdown cells in Jupyter Notebook, including clear code comments, and well written README.md 
