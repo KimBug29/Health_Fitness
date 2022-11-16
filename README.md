@@ -42,15 +42,15 @@ A list of technologies used within the project:
 ***
 To install, run and view the project, perform the following steps:
 
-* Use of Git Bash link https://git-scm.com/downloads
+* Use of Git Bash [link] https://git-scm.com/downloads
 
 * Conda was used to create this project, and I created a conda virtual environment. 
 
-* Ensure you have installed Anaconda. (link to install https://docs.anaconda.com/anaconda/install/) If you use windows, in ‘Start’ you need to type and start the ‘Anaconda prompt’. If you are on Mac or Linux, you can do all of these in Terminal.
+* Ensure you have installed [Anaconda] https://docs.anaconda.com/anaconda/install/. If you use windows, in ‘Start’ you need to type and start the ‘Anaconda prompt’. If you are on Mac or Linux, you can do all of these in Terminal.
 
-* Clone the project from my Git Hub repo. git clone https://github.com/KimBug29/Health_Fitness.git
+* Clone the project from my Git Hub repo. git [clone] https://github.com/KimBug29/Health_Fitness.git
 
-* From Kaggle https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset download and save the zip file.  Unzip the dataset and save the file titled 'osfstorage-archive' anywhere within the the file path of the cloned project.
+* From [Kaggle] https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset download and save the zip file.  Unzip the dataset and save the file titled 'osfstorage-archive' anywhere within the the file path of the cloned project.
 
 * Steps to create a virtual environment. 
     * Open Anaconda Navigator
@@ -67,7 +67,7 @@ To install, run and view the project, perform the following steps:
 
 ## Credits
 
-Data file folder titled 'osfstorage-archive' was obtained through Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
+Data file folder titled 'osfstorage-archive' was obtained through [Kaggle] https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
 
 ## Decided if below wording is necessary for edits to above wording.
 ***
