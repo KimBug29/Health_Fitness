@@ -37,15 +37,15 @@ A list of technologies used within the project:
 ## Installation / Requirements / Setup 
 To install, run and view the project, perform the following steps:
 
-* Use of Git Bash [link] https://git-scm.com/downloads
+* Use of [Git Bash](https://git-scm.com/downloads)
 
 * Conda was used to create this project, and I created a conda virtual environment. 
 
-* Ensure you have installed [Anaconda] https://docs.anaconda.com/anaconda/install/. If you use windows, in ‘Start’ you need to type and start the ‘Anaconda prompt’. If you are on Mac or Linux, you can do all of these in Terminal.
+* Ensure you have installed [Anaconda](https://docs.anaconda.com/anaconda/install/). If you use windows, in ‘Start’ you need to type and start the ‘Anaconda prompt’. If you are on Mac or Linux, you can do all of these in Terminal.
 
-* Clone the project from my Git Hub repo. git [clone] https://github.com/KimBug29/Health_Fitness.git
+* Clone the project from my Git Hub repo. git clone https://github.com/KimBug29/Health_Fitness.gitgit
 
-* From [Kaggle] https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset download and save the zip file.  Unzip the dataset and save the file titled 'osfstorage-archive' anywhere within the the file path of the cloned project.
+* From [Kaggle](https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset) download and save the zip file.  Unzip the dataset and save the file titled 'osfstorage-archive' anywhere within the the file path of the cloned project.
 
 * Steps to create a virtual environment. 
     * Open Anaconda Navigator
@@ -54,7 +54,7 @@ To install, run and view the project, perform the following steps:
     * Create a virtual environment by entering...
         * conda env create -f environment.yml
     * Activate virtual environment by entering...
-        * Activate hfenvironment
+        * Activate environment by entering conda activate testenv
     
 * Launch/Open Jupyter notebook fitness.ipynb
 
@@ -65,25 +65,3 @@ To install, run and view the project, perform the following steps:
 Data file folder titled 'osfstorage-archive' was obtained through [Kaggle] https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
 
 ***
-## Decided if below wording is necessary for edits to above wording.
-***
-Save this information in case I need to make edits to above wording.
-
-To create a conda virtual environment:
-1. Create an environment 
-    conda create --name NEWENV (replace NEWENV with the name of your choice)
-
-2. You will be asked if you'd like to proceed y/n. Select  y to proceed.
-
-3. Use conda activate NEWENV to activate your new virtual environment. (Again, please replace NEWENV with your chosen name). My virtual environment name is hfenv
-
-4. To run the project insure you have installed the packages listed in the environment.yml file. These packages are under dependencies. Use conda install.
-
-For example: conda install python
-Repeat until all packages are installed.
-
-5. Open the Jupyter Notebook: fitness.ipynb
-
-    Make sure that the virtual environment you created is selected.
-
-6. Run the notebook.

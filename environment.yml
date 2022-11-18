@@ -1,10 +1,10 @@
-name: hfenv
+name: testenv
 channels:
   - defaults
 dependencies:
-  - python
+  - ipykernel
+  - matplotlib
   - pandas
   - seaborn
-  - matplotlib
-  - ipykernel
-prefix: C:\Users\kimbe\anaconda3\envs\hfenv
+  - numpy
+prefix: C:\Users\kimbe\anaconda3\envs\testenv
